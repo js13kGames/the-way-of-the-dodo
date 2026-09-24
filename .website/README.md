@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - action
 directors_cut: https://repsej.github.io/TheWayOfTheDodo/
 video: https://youtu.be/p_GqomyfV1M
 post: https://github.com/repsej/TheWayOfTheDodo
